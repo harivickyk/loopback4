@@ -1,0 +1,10 @@
+win + R => SQLServerManager15.msc
+Enable SQL Server Browser
+
+SQL Network Configuration =>
+  Protocols =>
+    TCP/IP => IP ALL => Mention TCP port ; Dynamic port should be BLANK
+
+Restart SQL Server
+
+Create Login user > give adequate permissions from SQL Server.
